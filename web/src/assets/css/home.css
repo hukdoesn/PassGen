@@ -1,0 +1,25 @@
+
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: aqua;
+  margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-color: aqua; /* 可以保留或移除，取决于你是否想要整个页面背景为aqua色 */
+  }
+
+.intro-content {
+    width: 60vw;
+    height: 60vh;
+    background-color: red;
+    
+}
