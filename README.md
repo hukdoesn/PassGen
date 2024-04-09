@@ -19,18 +19,6 @@ PassGen是一个在线生成随机密码的工具，无论在何处，密码只�
 * [胡图图不涂涂](https://ext4.cn)
 
 ## 部署
-- **Python**: `3.9.6` - 为后端服务提供强大的运行时环境。
-- **Django**: `3.2` - 高效的后端框架，用于快速开发安全且可维护的Web应用。
-- **Vue**: `3` - 前端框架，提供响应式的数据绑定和组合的视图组件。
-- **Node.js**: `v16.16.0` - JavaScript运行环境，支持前端项目的构建过程。
-
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-
-
-### 版本介绍
 
 | 技术      | 版本      |
 |:----------|:---------|
