@@ -1,0 +1,4 @@
+# 构建镜像时忽略文件和目录,类似.gitignore
+web/node_modules
+server/venv
+web/package-lock.json
