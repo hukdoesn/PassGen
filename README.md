@@ -83,4 +83,4 @@ npm run pro
 ```
 * 访问：http:// IP:8080 或 http://your域名
 
-![PassGen](/Code/web/src/assets/svg/passgen.jpg)
+![PassGen](/web/src/assets/svg/passgen.jpg)
