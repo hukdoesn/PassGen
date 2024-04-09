@@ -49,6 +49,38 @@ docker run -d --platform linux/amd64 --name passgen -p 8080:8080 -p 8000:8000 ls
 # 进入后端项目
 cd server
 
+# 安装依赖
+pip3 install -r requirements.txt
+
 # 启动后端
 python3 manage.py runserver 0.0.0.0:8000
 ```
+* 前端vue
+  *   在进行部署之前，请确保您已经根据您的环境调整了前端的配置文件。
+  *   根据您的部署环境，选择编辑 `.env.local`（本地开发环境）或 `.env.production`（生产环境）文件。
+  *   修改 `VUE_APP_API_URL` 变量，将其设置为您的域名或IP地址，确保您的前端应用能够正确连接到后端服务。例如：
+```bash
+# 修改本地开发环境 .env.local
+VUE_APP_API_URL='http://localhost:8000'
+
+# 修改生产环境 .env.production
+VUE_APP_API_URL='https://yourdomain.com'
+
+# 进入前端项目
+cd web
+
+# 更改 npm 镜像
+npm config set registry https://registry.npmmirror.com
+
+# 安装依赖
+npm install 
+
+# 启动本地环境
+npm run dev
+
+# 启动生产环境
+npm run pro
+```
+* 访问：http:// IP:8080 或 http://your域名
+
+![Alt text](../Code/web/src/assets/svg/passgen.jpg)
