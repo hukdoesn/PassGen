@@ -1,8 +1,8 @@
 <p align="center">
   <img src="web/src/assets/svg/md_logo.svg">
-  <a href="https://www.python.org">
+  <!-- <a href="https://www.python.org"> -->
     <img src="https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white" alt="python">
-  </a>
+  <!-- </a> -->
   <!-- <a href="https://www.djangoproject.com"> -->
     <img src="https://img.shields.io/badge/Django-3.2-0077C6.svg?style=flat&logo=django&logoColor=white" alt="django">
   <!-- </a> -->
