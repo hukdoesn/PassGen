@@ -1,40 +1,8 @@
 <p align="center">
   <img src="web/src/assets/svg/md_logo.svg">
-
-  <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://www.djangoproject.com">
-    <img src="https://img.shields.io/badge/Django-3.2-0077C6.svg?style=flat&logo=django&logoColor=white" />
-  </a>
-  <a href="https://vuejs.org">
-    <img src="https://img.shields.io/badge/Vue-3.2.13-0077C6.svg?style=flat&logo=vue&logoColor=white" />
-  </a>
-  <a href="https://nodejs.org">
-    <img src="https://img.shields.io/badge/Node.js-16.16.0-0077C6.svg?style=flat&logo=node&logoColor=white" />
-  </a>
-  <a href="https://www.linux.org">
-    <img src="https://img.shields.io/badge/Linux-aliyun-0077C6.svg?style=flat&logo=linux&logoColor=white" />
-  </a>
-  <a href="https://hub.docker.com/r/lscpu/passgen/tags">
-    <img src="https://img.shields.io/badge/Docker-lscpu-2496ed?logo=docker&logoColor=white" />
-  </a>
-  <a href="https://ext4.cn">
-    <img src="https://img.shields.io/badge/Blog-胡图图不涂涂-0077C6.svg?style=flat&logo=blog&logoColor=white" />
-  </a>
-  <a href="https://github.com/hukdoesn/PassGen">
-    <img src="https://img.shields.io/github/stars/hukdoesn/PassGen?color=%231890FF&style=flat-square" alt="Stars">
-  </a>
-</p>
-<p align="center">
-    请记住，随机性是密码强度的关键因素，而生成真正随机密码的最好方法是使用密码生成器。
-</p>
-
-<p align="center">
-  <img src="web/src/assets/svg/md_logo.svg">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white" alt="python">
-  <!-- </a> -->
+  </a>
   <!-- <a href="https://www.djangoproject.com"> -->
     <img src="https://img.shields.io/badge/Django-3.2-0077C6.svg?style=flat&logo=django&logoColor=white" alt="django">
   <!-- </a> -->
