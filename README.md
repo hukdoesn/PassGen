@@ -1,5 +1,6 @@
 <p align="center">
   <img src="web/src/assets/svg/md_logo.svg">
+  
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white" />
   </a>
@@ -33,8 +34,6 @@
 [![Docker - lscpu](https://img.shields.io/badge/Docker-lscpu-2496ed?logo=docker&logoColor=white)](https://hub.docker.com/r/lscpu/passgen)
 [![blog](https://img.shields.io/badge/Blog-胡图图不涂涂-0077C6.svg?style=flat&logo=blog&logoColor=white)](https://ext4.cn) -->
 
-
-PassGen是一个在线生成随机密码的工具，无论在何处，密码只属于你。
 
 **请记住，随机性是密码强度的关键因素，而生成真正随机密码的最好方法是使用密码生成器。**
 
