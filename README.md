@@ -1,12 +1,37 @@
-# PassGen
+<p align="center">
+  <img src="web/src/assets/svg/text.svg">
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white" />
+  </a>
+  <a href="https://www.djangoproject.com">
+    <img src="https://img.shields.io/badge/Django-3.2-0077C6.svg?style=flat&logo=django&logoColor=white" />
+  </a>
+  <a href="https://vuejs.org">
+    <img src="https://img.shields.io/badge/Vue-3.2.13-0077C6.svg?style=flat&logo=vue&logoColor=white" />
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://img.shields.io/badge/Node.js-16.16.0-0077C6.svg?style=flat&logo=node&logoColor=white" />
+  </a>
+  <a href="https://www.linux.org">
+    <img src="https://img.shields.io/badge/Linux-aliyun-0077C6.svg?style=flat&logo=linux&logoColor=white" />
+  </a>
+  <a href="https://hub.docker.com/r/lscpu/passgen/tags">
+    <img src="https://img.shields.io/badge/Docker-lscpu-2496ed?logo=docker&logoColor=white" />
+  </a>
+  <a href="https://ext4.cn">
+    <img src="https://img.shields.io/badge/Blog-胡图图不涂涂-0077C6.svg?style=flat&logo=blog&logoColor=white" />
+  </a>
+</p>
 
-[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+
+
+<!-- [![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![django](https://img.shields.io/badge/Django-3.2-0077C6.svg?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com)
 [![vue](https://img.shields.io/badge/Vue-3.2.13-0077C6.svg?style=flat&logo=vue&logoColor=white)](https://vuejs.org)
 ![node](https://img.shields.io/badge/Node.js-16.16.0-0077C6.svg?style=flat&logo=node&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-aliyun-0077C6.svg?style=flat&logo=linux&logoColor=white)
 [![Docker - lscpu](https://img.shields.io/badge/Docker-lscpu-2496ed?logo=docker&logoColor=white)](https://hub.docker.com/r/lscpu/passgen)
-[![blog](https://img.shields.io/badge/Blog-胡图图不涂涂-0077C6.svg?style=flat&logo=blog&logoColor=white)](https://ext4.cn)
+[![blog](https://img.shields.io/badge/Blog-胡图图不涂涂-0077C6.svg?style=flat&logo=blog&logoColor=white)](https://ext4.cn) -->
 
 
 PassGen是一个在线生成随机密码的工具，无论在何处，密码只属于你。
