@@ -297,7 +297,7 @@ export default {
     },
 
     openGithub() {
-    const url = "https://github.com/hukdoesn"; // GitHub仓库URL
+    const url = "https://github.com/hukdoesn/PassGen"; // GitHub仓库URL
     window.open(url, '_blank');
     },
   },
