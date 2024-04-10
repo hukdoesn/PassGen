@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="web/src/assets/svg/md_logo.svg">
 
   <a href="https://www.python.org">
@@ -28,20 +28,30 @@
 </p>
 <p align="center">
     请记住，随机性是密码强度的关键因素，而生成真正随机密码的最好方法是使用密码生成器。
+</p> -->
+
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white" alt="python">
+  </a>
+  <a href="https://www.djangoproject.com">
+    <img src="https://img.shields.io/badge/Django-3.2-0077C6.svg?style=flat&logo=django&logoColor=white" alt="django">
+  </a>
+  <a href="https://vuejs.org">
+    <img src="https://img.shields.io/badge/Vue-3.2.13-0077C6.svg?style=flat&logo=vue&logoColor=white" alt="vue">
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-16.16.0-0077C6.svg?style=flat&logo=node&logoColor=white" alt="node">
+  <img src="https://img.shields.io/badge/Linux-aliyun-0077C6.svg?style=flat&logo=linux&logoColor=white" alt="linux">
+  <a href="https://hub.docker.com/r/lscpu/passgen">
+    <img src="https://img.shields.io/badge/Docker-lscpu-2496ed?logo=docker&logoColor=white" alt="Docker - lscpu">
+  </a>
+  <a href="https://ext4.cn">
+    <img src="https://img.shields.io/badge/Blog-胡图图不涂涂-0077C6.svg?style=flat&logo=blog&logoColor=white" alt="blog">
+  </a>
 </p>
 
-<style>
-a {
-  text-decoration: none; /* 去除下划线 */
-  color: inherit; /* 链接颜色不变，即使用父元素的颜色 */
-}
 
-a:hover, a:active {
-  text-decoration: none; /* 鼠标悬停和点击时去除下划线 */
-  color: inherit; /* 鼠标悬停和点击时颜色不变 */
-}
-
-</style>
 
 
 <!-- [![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
