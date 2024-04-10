@@ -30,6 +30,18 @@
     请记住，随机性是密码强度的关键因素，而生成真正随机密码的最好方法是使用密码生成器。
 </p>
 
+<style>
+a {
+  text-decoration: none; /* 去除下划线 */
+  color: inherit; /* 链接颜色不变，即使用父元素的颜色 */
+}
+
+a:hover, a:active {
+  text-decoration: none; /* 鼠标悬停和点击时去除下划线 */
+  color: inherit; /* 鼠标悬停和点击时颜色不变 */
+}
+
+</style>
 
 
 <!-- [![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
