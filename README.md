@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="web/src/assets/svg/text.svg">
+  <img src="web/src/assets/svg/md_logo.svg">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white" />
   </a>
