@@ -1,8 +1,8 @@
 <p align="center">
   <img src="web/src/assets/svg/md_logo.svg">
-  
+
   <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
   </a>
   <a href="https://www.djangoproject.com">
     <img src="https://img.shields.io/badge/Django-3.2-0077C6.svg?style=flat&logo=django&logoColor=white" />
@@ -22,6 +22,12 @@
   <a href="https://ext4.cn">
     <img src="https://img.shields.io/badge/Blog-胡图图不涂涂-0077C6.svg?style=flat&logo=blog&logoColor=white" />
   </a>
+  <a href="https://github.com/hukdoesn/PassGen">
+    <img src="https://img.shields.io/github/stars/hukdoesn/PassGen?color=%231890FF&style=flat-square" alt="Stars">
+  </a>
+</p>
+<p align="center">
+    请记住，随机性是密码强度的关键因素，而生成真正随机密码的最好方法是使用密码生成器。
 </p>
 
 
@@ -35,7 +41,7 @@
 [![blog](https://img.shields.io/badge/Blog-胡图图不涂涂-0077C6.svg?style=flat&logo=blog&logoColor=white)](https://ext4.cn) -->
 
 
-**请记住，随机性是密码强度的关键因素，而生成真正随机密码的最好方法是使用密码生成器。**
+<!-- **请记住，随机性是密码强度的关键因素，而生成真正随机密码的最好方法是使用密码生成器。** -->
 
 
 ## Blog
