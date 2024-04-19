@@ -140,6 +140,9 @@
         </div>
       </div>
     </div>
+    <footer class="footer">
+      © 2024 胡图图不涂涂 版权所有 <a href="http://beian.miit.gov.cn/" target="_blank">豫ICP备2023030915号-2</a>
+    </footer>
   </div>
 </template>
 
@@ -342,6 +345,8 @@ html, body {
   padding: 0;
   background-color: #12141D;
 }
+
+
 
 
 /* 禁止用户拖拽图片 */
@@ -954,6 +959,26 @@ input::-moz-focus-outer {
   margin-left: 40px;
   width: 100px; /* 根据图片实际大小调整 */
   height: auto; /* 保持图片的原始宽高比 */
+}
+
+.footer {
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  color: #FFFFFF;
+  background-color: #12141D;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.footer a {
+  color: #FFF; /* 确保链接是白色的 */
+  text-decoration: none; /* 移除下划线 */
+}
+
+.footer a:hover {
+  text-decoration: underline; /* 鼠标悬停时添加下划线 */
 }
 
 
