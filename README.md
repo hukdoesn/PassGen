@@ -62,7 +62,7 @@
 # Linux
 docker pull lscpu/passgen:v1
 
-docker run -d  --name passgen -p 8080:8080 -p 8000:8000 lscpu/passgen:v1
+docker run -d  --name passgen -p 8080:8080 -p 8000:8000 lscpu/passgen:v1.5
 
 # Mac
 docker pull --platform linux/amd64 lscpu/passgen:v1
